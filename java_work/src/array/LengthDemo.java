@@ -5,13 +5,13 @@ public class LengthDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[] classGroup = new String[5];
-		classGroup[0] = "최진혁";
+		classGroup[0] = "깃";
 		System.out.println(classGroup.length);
-		classGroup[1] = "최유빈";
+		classGroup[1] = "깃허브";
 		System.out.println(classGroup.length);
-		classGroup[2] = "한이람";
+		classGroup[2] = "한인우";
 		System.out.println(classGroup.length);
-		classGroup[3] = "이고잉";
+		classGroup[3] = "장은재";
 		System.out.println(classGroup.length);
 		classGroup[4] = "주민기";
 		System.out.println(classGroup.length);
