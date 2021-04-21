@@ -6,8 +6,8 @@ public class Scanner2Demo {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String str = "Ãâ·Â °ª : ";
-		System.out.print("°ªÀ» ÀÔ·ÂÇÏ¼¼¿ä : ");
+		String str = "ì…ë ¥ê°’ : ";
+		System.out.print("ì¶œë ¥ê°’ : ");
 		while(sc.hasNextInt()) {
 			System.out.print(str);
 			System.out.println(sc.nextInt()*1000);
@@ -17,3 +17,5 @@ public class Scanner2Demo {
 	}
 
 }
+
+// í•œê¸€ ì¸ì½”ë”© fix
