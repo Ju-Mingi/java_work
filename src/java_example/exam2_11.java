@@ -1,6 +1,6 @@
 package java_example;
 import java.util.Random;
-public class Scan2_11 {
+public class exam2_11 {
 	public static void main(String[] args)  {
         Random random = new Random();
         
