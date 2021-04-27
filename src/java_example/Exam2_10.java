@@ -1,7 +1,7 @@
 package java_example;
 import java.util.Scanner;
 
-public class exam2_10 {
+public class Exam2_10 {
 
 	public static void main(String[] args) {
 		Scanner Sphere = new Scanner(System.in);

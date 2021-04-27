@@ -1,6 +1,6 @@
 package java_example;
 import java.util.Random;
-public class exam2_13 {
+public class Exam2_13 {
 
 	public static void main(String[] args) {
 	      // TODO Auto-generated method stub

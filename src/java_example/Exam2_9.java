@@ -1,7 +1,7 @@
 package java_example;
 import java.util.Scanner;
 
-public class exam2_9 {
+public class Exam2_9 {
 
 	public static void main(String[] args) {
 		Scanner triangle = new Scanner(System.in);

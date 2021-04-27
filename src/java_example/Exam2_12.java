@@ -3,7 +3,7 @@ package java_example;
 import java.util.Scanner;
 
 
-public class exam2_12 {
+public class Exam2_12 {
 
    public static void main(String[] args) {
       // TODO Auto-generated method stub

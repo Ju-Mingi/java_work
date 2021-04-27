@@ -1,6 +1,6 @@
 package java_example;
 import java.util.Scanner;
-public class exam2_15 {
+public class Exam2_15 {
 
 	public static void main(String[] args) {
 		Scanner adress = new Scanner(System.in);

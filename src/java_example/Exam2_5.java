@@ -4,7 +4,7 @@
 package java_example;
 import java.util.Scanner;
 
-public class exam2_5 {
+public class Exam2_5 {
 		
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
