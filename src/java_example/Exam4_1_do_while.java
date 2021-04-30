@@ -15,8 +15,9 @@ public class Exam4_1_do_while {
 			System.out.println("다시 한번 하시겠습니까? yes : 1 no : 0");
 			retry = stdInt.nextInt();
 		}while(retry == 1);
-		
+		stdInt.close();
 	}
+	
 }
 
 					

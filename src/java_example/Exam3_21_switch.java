@@ -24,7 +24,7 @@ public class Exam3_21_switch {
 		default :
 			System.out.println("없음");
 			break;
-		}
+		}stdInt.close();
 
 	}
 

@@ -13,6 +13,7 @@ public class Exam4_1 {
 			}
 			else {
 				System.out.println("이 값은 양수 입니다.");
+	
 			}
 			System.out.println("다시 하시겠습니까? yes : 1 no : 0");
 			int choice = select.nextInt();
@@ -21,10 +22,9 @@ public class Exam4_1 {
 				break;
 			case 1:
 				continue;
-			}
-					
-		}
-
+			}stdInt.close();
+			select.close();				
+		}	
 	}
 
 }
