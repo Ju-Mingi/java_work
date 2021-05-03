@@ -1,0 +1,5 @@
+package interfaces.example3;
+
+interface I5 {
+	public void x();
+}

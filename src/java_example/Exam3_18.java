@@ -1,9 +1,5 @@
 package java_example;
 import java.util.Scanner;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
 public class Exam3_18 {
 
 	public static void main(String[] args) {
