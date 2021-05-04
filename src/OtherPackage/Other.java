@@ -17,7 +17,11 @@ public class Other {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Other other = new Other();
+		other._private();
+		other._default();
+		other._protected();
+		other._public();
 
 	}
 

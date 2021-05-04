@@ -20,8 +20,8 @@ class OtherPackageChecker extends Other{
 	public OtherPackageChecker() {
 		Nothing nothing = new Nothing();
 		nothing._public();
-//		nothing._protected();
-//		nothing._default();
+		nothing._protected();
+		nothing._default();
 //		nothing._private();
 	}
 	
