@@ -19,7 +19,7 @@ public class Exam4_30 {
 				System.out.println("DOWN");
 			} else {
 				System.out.println("정답!!");
-				System.out.println(i + "번만에 맞추었습니다.");
+				System.out.println(i +"번만에 맞추었습니다.");
 				break;
 			}
 		}

@@ -16,6 +16,7 @@ public class Exam5_3 {
 		System.out.println(floatnum);
 		System.out.println(doublenum);
 
+		
 	}
 
 }

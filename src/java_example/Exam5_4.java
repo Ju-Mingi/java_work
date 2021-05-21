@@ -6,7 +6,7 @@ public class Exam5_4 {
 		// TODO Auto-generated method stub
 		boolean b1 = true;
 		boolean b2 = false;
-		
+
 		System.out.println(b1);
 		System.out.println(b2);
 
